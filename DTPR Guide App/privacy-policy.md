@@ -4,7 +4,7 @@
 
 This Privacy Notice describes the ways that Helpful Places protects the privacy of visitors to Helpful Places’ to web-based DTPR Guide App (hereafter “Guide App”). 
 
-Transparency is core to who we are as an organization, and we have done our best to make our Privacy Notice easy to read and to allow you to find what you’re looking for. If you would like any more information, just reach out to us at hello@helpfulplaces.com. 
+Transparency is core to who we are as an organization, and we have done our best to make our Privacy Notice easy to read and to allow you to find what you’re looking for. If you would like any more information, just reach out to us at [hello@helpfulplaces.com](mailto:hello@helpfulplaces.com). 
 
 *Note:* if you landed on this page through a DTPR Guide App, it has been deployed at the request and on behalf of anotherorganization (a “Deploying Organization”). If you reach out to us using the “Email Us” link on the website, you are voluntarily providing both Helpful Places and the Deploying Organization with personal information in order to respond to you. You can find the Deploying Organization’s contact information at the top of the Guide App’s main page. 
 

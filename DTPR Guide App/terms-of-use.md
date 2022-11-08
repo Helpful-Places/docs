@@ -1,6 +1,6 @@
 # Terms of Use - DTPR Guide App
 
-*These Terms and Conditions (“Terms”) were last updated on June 5, 2022.*
+*These Terms and Conditions (“Terms”) were last updated on November 7, 2022.*
 
 **By using or accessing our Guide App, you agree to comply with these Terms.  These Terms contain disclaimers where you release any claims to damages from Us.  If You do not agree to the Terms, You must not use the Guide App.**
 
@@ -22,7 +22,7 @@ By using this Guide App, You promise that You are at least 15 years old, or old 
 
 ### 3. PRIVACY
 
-Please review our [Privacy Policy] (https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/privacy-policy.md), which also governs Your use of Our Guide App.
+Please review our [Privacy Policy](https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/privacy-policy.md), which also governs Your use of Our Guide App.
 
 By using Our Guide App, You consent to the collection, use, reproduction, hosting, transmission, and disclosure of any such information in compliance with Our Privacy Policy.
 
@@ -132,19 +132,15 @@ The Terms are governed by and shall be interpreted pursuant to the laws of Ontar
 
 The Terms constitute the whole legal agreement between You and Us and govern Your use of the website and any of its content.  
 
-### 17.LANGUAGE OF AGREEMENT
-
-We are working on a French version of these terms and will post it as soon as it is ready.  You agree that We may present these Terms in English only, and that you will be bound by them.  Vous acceptez que les conditions générales d’utilisation seront publiées seulement en langue anglaise. 
-
-### 18. WAIVER
+### 17. WAIVER
   
 No failure to exercise, or delay in exercising, any right, remedy, power, or privilege arising from these Terms operates, or may be construed, as a waiver thereof; and no single or partial exercise of any right, remedy, power, or privilege hereunder precludes any other or further exercise thereof or the exercise of any other right, remedy, power, or privilege.
 
-### 19. SEVERABILITY
+### 18. SEVERABILITY
   
 If any section of these Terms is found to be invalid, illegal or unenforceable in any way, the court may interpret it or modify it to make such provision enforceable or, in the alternative, remove it without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
 
-### 20. REPORTING AND CONTACT
+### 19. REPORTING AND CONTACT
 
 This website is operated by Helpful Places Inc., located in Toronto, Ontario.
 
