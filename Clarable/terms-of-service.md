@@ -1,9 +1,9 @@
 ---
-date: 2025-11-19
+date: 2025-12-10
 ---
 **Clarable Services Agreement**
 
-Last updated on November 19, 2025.
+Last updated on December 10, 2025.
 
 **HELPFUL PLACES INC.** (**“Helpful Places”**, **“Provider”,** **“Us”**, **“We”** or **“Our”**) is a social impact enterprise whose aim is to improve trust and foster meaningful dialogue between businesses, institutions and the communities they serve by enabling transparency practices for data collected by digital technologies deployed in the built environment, and how that data is used and stored.  
 
@@ -11,7 +11,7 @@ Last updated on November 19, 2025.
 
 **THE DTPR STANDARD** consists of a taxonomy of terms and associated icons, a design guide specifying their use as well as a digital channel prototype.  The DTPR Standard is free for anyone to use, provided they comply with the terms of the open-source licenses that govern their use. The DTPR standard is available at https://github.com/helpful-places/dtpr.
 
-This Clarable Services Agreement (**“Agreement”**) governs and applies to your (**“Client”, “You”** or **“Your”**) access to and use of the Clarable ( **“Platform”** or **“Services”**). The Platform is the management portal for the associated **DTPR Guide App**, whose Terms of Use are available at [https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/terms-of-use.md](https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/terms-of-use.md)
+This Clarable Services Agreement (**“Agreement”**) governs and applies to your (**“Client”, “You”** or **“Your”**) access to and use of Clarable ( **“Platform”** or **“Services”**). The Platform is the management portal for the associated **DTPR Guide App**, whose Terms of Use are available at [https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/terms-of-use.md](https://github.com/Helpful-Places/docs/blob/main/DTPR%20Guide%20App/terms-of-use.md)
 
 THIS AGREEMENT TAKES EFFECT WHEN YOU CLICK THE "I ACCEPT" BUTTON BELOW OR BY ACCESSING OR USING THE PLATFORM (the "Effective Date"). BY CLICKING ON THE "I ACCEPT" BUTTON BELOW OR BY ACCESSING OR USING THE PLATFORM YOU (A) ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT; AND (B) ACCEPT THIS AGREEMENT AND AGREE THAT YOU ARE LEGALLY BOUND BY ITS TERMS.
 
@@ -115,7 +115,7 @@ IF YOU DO NOT ACCEPT THESE TERMS, YOU MAY NOT ACCESS OR USE THE PLATFORM.
 
 12. **Term and Termination**.
 
-    1. **Term.** This Agreement shall commence as of the date Helpful Places notifies the Client it can access the Clarable  (the **“Effective Date”**) and, subject to earlier termination in accordance with the terms hereof, shall continue in effect until the expiry of all SOW’s entered into pursuant to this Agreement (the **“Term”**). 
+    1. **Term.** This Agreement shall commence as of the date Helpful Places notifies the Client it can access Clarable  (the **“Effective Date”**) and, subject to earlier termination in accordance with the terms hereof, shall continue in effect until the expiry of all SOW’s entered into pursuant to this Agreement (the **“Term”**). 
 
     2. **Renewals**. Should the Client continue to use Clarable following expiration of the Term with the consent of Helpful Places, then, unless terminated by either Party in writing at least thirty (30) days prior to the end of the then current Term, the Term of the Agreement shall be automatically extended for successive periods of one (1) year each (with respect to the use of Clarable only) (any such subsequent extension terms referred to in this Agreement as an “**Extension Term**”), on the same terms and conditions as set out herein, save and except for the fee for use of the Platform, which shall be at Helpful Places’ then current standard rates.  
 
@@ -142,7 +142,7 @@ IF YOU DO NOT ACCEPT THESE TERMS, YOU MAY NOT ACCESS OR USE THE PLATFORM.
 
 15. **Limitation of Liability**. EXCEPT WITH RESPECT TO EACH PARTY’S INDEMNITY OBLIGATIONS, BREACH OF CONFIDENTIALITY, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, (I) NEITHER PARTY, ITS CONTRACTORS OR THEIR RESPECTIVE PERSONNEL SHALL BE LIABLE FOR ANY CLAIMS, LIABILITIES OR EXPENSES RELATING TO THIS AGREEMENT FOR AN AGGREGATE AMOUNT IN EXCESS OF THE FEES PAID BY CLIENT TO HELPFUL PLACES HEREUNDER OVER THE 12-MONTH PERIOD IMMEDIATELY PRECEDING THE DATE ON WHICH THE INITIAL ACT OR OMISSION GIVING RISE TO THE LIABILITY FIRST OCCURS; AND (II) NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY FOR INDIRECT OR CONSEQUENTIAL DAMAGES, NOR FOR EXEMPLARY, OR PUNITIVE DAMAGES, LOST PROFITS, OR LOSS OF GOODWILL, EXCLUDING CLAIMS FOR FRAUD, WILLFUL MISCONDUCT, GROSS NEGLIGENCE, OR ARISING FROM A BREACH OF CONFIDENTIALITY OBLIGATIONS OR OBLIGATIONS RELATING TO WORK PRODUCT AND INVENTIONS UNDER THIS AGREEMENT.  THIS SECTION SETS FORTH CLIENT’S SOLE REMEDIES AND HELPFUL PLACES’ SOLE LIABILITY AND OBLIGATION FOR ANY ACTUAL, THREATENED OR ALLEGED CLAIMS THAT THE HELPFUL PLACES IP INFRINGE, MISAPPROPRIATE OR OTHERWISE VIOLATE ANY INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY.
 
-16. Modifications. You acknowledge and agree that we have the right, in our sole discretion, to modify this Agreement from time to time, and that modified terms become effective on posting. You will be notified of modifications through direct email communication from us. You are responsible for reviewing and becoming familiar with any such modifications. Your continued use of the Clarable after the effective date of the modifications will be deemed acceptance of the modified terms..
+16. Modifications. You acknowledge and agree that we have the right, in our sole discretion, to modify this Agreement from time to time, and that modified terms become effective on posting. You will be notified of modifications through direct email communication from us. You are responsible for reviewing and becoming familiar with any such modifications. Your continued use of Clarable after the effective date of the modifications will be deemed acceptance of the modified terms..
 
 17. **Notices**. All notices (each, a **“Notice”**) relating to this Agreement will be in writing and delivered (i) either by hand or by overnight mail, effective on the date received; or (ii) by email on the date after it was sent. Notices are to be sent to the addresses set forth below:
 
